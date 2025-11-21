@@ -1,0 +1,191 @@
+{
+    "decorators": [
+        {
+            "type": "letter",
+            "loc": {
+                "x": -1.06, 
+                "y": 1.42, 
+                "z": 0.0
+            },
+            "flip": false,
+            "scale": 1.8
+        }
+    ],
+    "cards": [
+        {
+            "rank": 1,
+            "face": "",
+            "pips": [
+                { 
+                    "type": "pip", 
+                    "loc": { 
+                        "x": 0.0, 
+                        "y": -0.2, 
+                        "z": 0.0 
+                    }, 
+                    "flip": false, 
+                    "scale": 3.6 
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "face": "",
+            "pips": [
+                { 
+                    "type": "pip", 
+                    "loc": { 
+                        "x": 0.0, 
+                        "y": -0.2, 
+                        "z": 0.0 
+                    }, 
+                    "flip": false, 
+                    "scale": 3.6 
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "face": "",
+            "pips": [
+                { 
+                    "type": "pip", 
+                    "loc": { 
+                        "x": 0.0, 
+                        "y": -0.2, 
+                        "z": 0.0 
+                        }, 
+                    "flip": false, 
+                    "scale": 3.6 
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "face": "",
+            "pips": [
+                { 
+                    "type": "pip", 
+                    "loc": { 
+                        "x": 0.0, 
+                        "y": -0.2, 
+                        "z": 0.0 
+                        }, 
+                    "flip": false, 
+                    "scale": 3.6 
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "face": "",
+            "pips": [
+                { 
+                    "type": "pip", 
+                    "loc": { 
+                        "x": 0.0, 
+                        "y": -0.2, 
+                        "z": 0.0 
+                        }, 
+                    "flip": false, 
+                    "scale": 3.6 
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "face": "",
+            "pips": [
+                { 
+                    "type": "pip", 
+                    "loc": { 
+                        "x": 0.0, 
+                        "y": -0.2, 
+                        "z": 0.0 
+                        }, 
+                    "flip": false, 
+                    "scale": 3.6 
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "face": "",
+            "pips": [
+                { 
+                    "type": "pip", 
+                    "loc": { 
+                        "x": 0.0, 
+                        "y": -0.2, 
+                        "z": 0.0 
+                        }, 
+                    "flip": false, 
+                    "scale": 3.6 
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "face": "",
+            "pips": [
+                { 
+                    "type": "pip", 
+                    "loc": { 
+                        "x": 0.0, 
+                        "y": -0.2, 
+                        "z": 0.0 
+                        }, 
+                    "flip": false, 
+                    "scale": 3.6 
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "face": "",
+            "pips": [
+                { 
+                    "type": "pip", 
+                    "loc": { 
+                        "x": 0.0, 
+                        "y": -0.2, 
+                        "z": 0.0 
+                        }, 
+                    "flip": false, 
+                    "scale": 3.6 
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "face": "",
+            "pips": [
+                { 
+                    "type": "pip", 
+                    "loc": { 
+                        "x": 0.0, 
+                        "y": -0.2, 
+                        "z": 0.0 
+                        }, 
+                    "flip": false, 
+                    "scale": 3.6 
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "face": "FaceCard_11",
+            "pips": []
+        },
+        {
+            "rank": 12,
+            "face": "FaceCard_12",
+            "pips": []
+        },
+        {
+            "rank": 13,
+            "face": "FaceCard_13",
+            "pips": []
+        }
+    ]
+}
