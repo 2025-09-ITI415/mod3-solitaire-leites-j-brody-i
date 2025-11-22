@@ -76,6 +76,8 @@ public class Pyramid : MonoBehaviour
         }
 
         UpdateDrawPile();
+
+        SetTableauFaceUps();
     }
 
     CardPyramid Draw() 
