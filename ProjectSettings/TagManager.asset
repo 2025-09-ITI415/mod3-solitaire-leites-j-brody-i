@@ -41,26 +41,26 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Row6
-    uniqueID: 1923990217
-    locked: 0
-  - name: Row5
-    uniqueID: 4051439811
-    locked: 0
-  - name: Row4
-    uniqueID: 1854109305
-    locked: 0
-  - name: Row3
-    uniqueID: 1850105477
-    locked: 0
-  - name: Row2
-    uniqueID: 2782702841
+  - name: Row0
+    uniqueID: 775073535
     locked: 0
   - name: Row1
     uniqueID: 1532845745
     locked: 0
-  - name: Row0
-    uniqueID: 775073535
+  - name: Row2
+    uniqueID: 2782702841
+    locked: 0
+  - name: Row3
+    uniqueID: 1850105477
+    locked: 0
+  - name: Row4
+    uniqueID: 1854109305
+    locked: 0
+  - name: Row5
+    uniqueID: 4051439811
+    locked: 0
+  - name: Row6
+    uniqueID: 1923990217
     locked: 0
   m_RenderingLayers:
   - Default
